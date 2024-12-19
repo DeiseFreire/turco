@@ -1,4 +1,4 @@
-## Estudando turco no GitHub
+## Estudando turco
 
 **Projeto** 
 
